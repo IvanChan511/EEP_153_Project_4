@@ -15,18 +15,19 @@ This is the EEP 153 Project 4 Repository for Team Burbank. In this `README.md`, 
 
 ## ℹ️ Overview
 
-A paragraph explaining your work, who you are, and why you made it.
+This project analyzes differences in nutritional outcomes across Senegal and Ethiopia by comparing the nutrient composition of diets based on what a typical household consumes. Rather than categorizing foods into broad groups, we focus directly on total nutrient intake to better understand how diets translate into health-relevant outcomes.
+
+After establishing cross-country differences, we identify specific nutrient deficiencies and surpluses within each population. We then assess whether complementarities exist, where one country’s surplus could potentially address another’s deficiency, highlighting opportunities for trade-based policy solutions.
 
 
 ### ✍️ Authors
 
-Mention who you are and link to your GitHub or organization's website.
-
--
--
--
--
--
+- Food Demand System - Natalie
+- Nutrient System - Sage & Inaaya
+- Nutritional Challenges and Policy Goal - Amanda
+- Policy Options - Aaron
+- Unit Tests - Inaaya
+- `README.md` - Ivan Chan
 
 ## 🚀 Replication
 
