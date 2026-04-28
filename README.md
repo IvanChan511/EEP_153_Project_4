@@ -1,8 +1,7 @@
 # Team Burbank EEP 153 Project 4
 In this `README.md`, we will briefly introduce our project highlights and goals, as well as provide a general overview of our project and a brief guide to replicate our project code.
 
-> *Be sure to check out the **Replication** Section before proceeding to replication.*
-
+> *Be sure to check out the **[Replication](https://github.com/IvanChan511/EEP_153_Project_4#-replication)** Section before proceeding to replication.*
 
 ## 🌟 Highlights
 Here are the quick highlights for our project:
