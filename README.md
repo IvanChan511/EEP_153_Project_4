@@ -1,10 +1,11 @@
 # Team Burbank EEP 153 Project 4
-This is the EEP 153 Project 4 Repository for Team Burbank. In this `README.md`, we will briefly introduce our project highlights and goals, as well as provide a general overview of our project and a brief guide to replicate our project code.
+In this `README.md`, we will briefly introduce our project highlights and goals, as well as provide a general overview of our project and a brief guide to replicate our project code.
 
 > *Be sure to check out the **Replication** Section before proceeding to replication.*
 
 
 ## 🌟 Highlights
+Here are the quick highlights for our project:
 
 - Our project specifically looks at two countries - **Senegal & Ethiopia**.
 - We computed their **Food Demand System** respectively, and their **Nutrient System** subsequently.
@@ -41,6 +42,5 @@ After establishing cross-country differences, we identify specific nutrient defi
 
 ## 💭 Feedback and Code Review
 
-Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
+If you have suggestions and comments on the code, please start an [Issue](https://github.com/IvanChan511/EEP_153_Project_4/issues)!
 
-This is also a great place to invite others to contribute in any way that makes sense for your project. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them.
