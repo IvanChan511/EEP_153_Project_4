@@ -32,12 +32,23 @@ After establishing cross-country differences, we identify specific nutrient defi
 
 ## 🚀 Replication
 
-*Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
+*To ensure a smooth replication in our Project Code, please read the following instructions.*
+
+In the introduction of our compiled and subpart project code, we have a section on Importation and Installation. Please make sure the requirements text files are available in your local directory if you're running locally, and uncomment the code to install all necessary libraries. Then run the code block followed by the installation code to make sure you imported all the required libraries for our project code.
+
+Below is an example of what you might see in our Project Code:
 
 ``` py
->>> import mypackage
->>> mypackage.do_stuff()
-'Oh yeah!'
+#%pip install -r requirements-estimation.txt
+```
+``` py
+#%pip install -r requirements.txt -q
+```
+``` py
+from eep153_tools.sheets import read_sheets
+import pandas as pd
+import numpy as np
+...
 ```
 
 ## 💭 Feedback and Code Review
